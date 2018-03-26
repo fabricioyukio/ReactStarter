@@ -5,6 +5,7 @@ import { removeThing } from "../redux/actions/index";
 const mapStateToProps = state => {
   return {things: state.things};
 };
+
 const mapDispatchToProps = dispatch => {
   return {
     removeThing: thing_index => dispatch(removeThing(thing_index))
