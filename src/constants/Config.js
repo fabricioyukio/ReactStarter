@@ -14,9 +14,9 @@ export const APPFULLNAME = 'All in One Digital Marketing';
 
 /* export const FY_GOOGLE_OAUTH_ID = "1026160556529-ik1c447micrm07kteld03q5apgvcnj1q.apps.googleusercontent.com"; */
 export const FY_GOOGLE_OAUTH_ID = "???.apps.googleusercontent.com";
-export const FY_APP_URI = "http://api.allinonedigitalmarketing.com.br/";
-export const FY_API_URI = "http://api.allinonedigitalmarketing.com.br/api";
+export const FY_APP_URI = "http://api.my-local.com.br/";
+export const FY_API_URI = "http://api.my-local.com.br/api";
 export const FY_IMG = FY_APP_URI + "assets/img/";
 
-export const FY_APP_NAME = "All in 1";
-export const FB_APP_ID = 167446703852071;
+export const FY_APP_NAME = "your_app_name";
+export const FB_APP_ID = 100046700052000;
