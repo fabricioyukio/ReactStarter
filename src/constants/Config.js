@@ -9,8 +9,8 @@ export const firebase_credentials = {
   messagingSenderId: ''
 };
 
-export const APPNAME = 'All in One';
-export const APPFULLNAME = 'All in One Digital Marketing';
+export const APPNAME = 'your_app';
+export const APPFULLNAME = 'Your APP FULL NAME';
 
 /* export const FY_GOOGLE_OAUTH_ID = "1026160556529-ik1c447micrm07kteld03q5apgvcnj1q.apps.googleusercontent.com"; */
 export const FY_GOOGLE_OAUTH_ID = "???.apps.googleusercontent.com";
